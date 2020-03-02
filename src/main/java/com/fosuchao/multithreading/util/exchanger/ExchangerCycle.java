@@ -1,4 +1,4 @@
-package com.fosuchao.multithreading.concurrent.util.exchanger;
+package com.fosuchao.multithreading.util.exchanger;
 
 import java.util.concurrent.Exchanger;
 import java.util.concurrent.atomic.AtomicReference;

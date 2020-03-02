@@ -1,4 +1,4 @@
-package com.fosuchao.multithreading.concurrent.util.lock.mylock;
+package com.fosuchao.multithreading.util.lock.mylock;
 
 /**
  * @Description: 通过继承lock来实现自己的锁

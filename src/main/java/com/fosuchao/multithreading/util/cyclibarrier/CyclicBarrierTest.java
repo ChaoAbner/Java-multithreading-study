@@ -1,4 +1,4 @@
-package com.fosuchao.multithreading.concurrent.util.cyclibarrier;
+package com.fosuchao.multithreading.util.cyclibarrier;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

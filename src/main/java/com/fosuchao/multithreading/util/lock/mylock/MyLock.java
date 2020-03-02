@@ -1,4 +1,4 @@
-package com.fosuchao.multithreading.concurrent.util.lock.mylock;
+package com.fosuchao.multithreading.util.lock.mylock;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Condition;

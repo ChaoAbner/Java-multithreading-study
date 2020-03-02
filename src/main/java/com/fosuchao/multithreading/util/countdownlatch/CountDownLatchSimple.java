@@ -1,4 +1,4 @@
-package com.fosuchao.multithreading.concurrent.util.countdownlatch;
+package com.fosuchao.multithreading.util.countdownlatch;
 
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;

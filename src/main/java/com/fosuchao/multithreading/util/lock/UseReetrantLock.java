@@ -1,4 +1,4 @@
-package com.fosuchao.multithreading.concurrent.util.lock;
+package com.fosuchao.multithreading.util.lock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
