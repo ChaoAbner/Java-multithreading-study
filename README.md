@@ -14,7 +14,7 @@ CountDownLatch是一种同步帮助，允许一个或多个线程等待，直到
 
 举一个例子，多线程爬虫获取结果，然后再汇总处理。
 
-
+[example](https://github.com/ChaoAbner/Java-multithreading-study/tree/master/src/main/java/com/fosuchao/multithreading/concurrent/util/countdownlatch)
 ### 适用场景
 
 前面的任务可以使用并发处理提高效率，然后又使用串行方式的场景。
@@ -34,7 +34,7 @@ CountDownLatch是一种同步帮助，允许一个或多个线程等待，直到
 ![](http://img.fosuchao.com/20200226161410.png)
 
 ### 示例
-
+[example](https://github.com/ChaoAbner/Java-multithreading-study/tree/master/src/main/java/com/fosuchao/multithreading/concurrent/util/cyclibarrier)
 
 
 ### vs CountDownLatch
@@ -60,10 +60,10 @@ CountDownLatch不可以循环使用。
 ### 示例
 
 **简单交换**
-
+[example-1](https://github.com/ChaoAbner/Java-multithreading-study/blob/master/src/main/java/com/fosuchao/multithreading/concurrent/util/exchanger/ExchangerSimple.java)
 
 **循环交换信息**
-
+[example-2](https://github.com/ChaoAbner/Java-multithreading-study/blob/master/src/main/java/com/fosuchao/multithreading/concurrent/util/exchanger/ExchangerCycle.java)
 
 
 ### 注意事项
@@ -82,8 +82,8 @@ CountDownLatch不可以循环使用。
 ### 示例
 
 #### 锁的作用
-
+[example-1](https://github.com/ChaoAbner/Java-multithreading-study/blob/master/src/main/java/com/fosuchao/multithreading/concurrent/util/semaphore/SemaphoreLock.java)
 
 
 #### 简单使用
-
+[example-2](https://github.com/ChaoAbner/Java-multithreading-study/blob/master/src/main/java/com/fosuchao/multithreading/concurrent/util/semaphore/SemaphoreSimple.java)

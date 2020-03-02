@@ -1,6 +1,6 @@
 # 实现一个简单的Future
 
- - Future -> get获取执行结果
+ - Future -> 一个未来的凭据，使用get获取执行结果
  - FutureTask -> 传入的执行任务
  - FutureService -> 桥接Future和FutureTask
  
